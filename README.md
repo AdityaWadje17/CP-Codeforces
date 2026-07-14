@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 11 |
+| 16 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (3)
+- [Uncategorized](#uncategorized) (4)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (4)
 - [combinatorics](#combinatorics) (1)
@@ -31,6 +31,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
+| 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 | 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.cpp) |
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 
