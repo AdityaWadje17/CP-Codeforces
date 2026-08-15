@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 12 |
+| 27 | 12 |
 
 ---
 
@@ -16,12 +16,12 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (4)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (9)
 - [implementation](#implementation) (2)
-- [math](#math) (5)
-- [sortings](#sortings) (3)
+- [math](#math) (6)
+- [sortings](#sortings) (4)
 - [strings](#strings) (1)
 - [two pointers](#two-pointers) (2)
 
@@ -72,6 +72,7 @@
 | 2162B | [Beautiful String](https://codeforces.com/contest/2162/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2162/B%20-%20Beautiful%20String/solution.cpp) |
 | 2162C | [Beautiful XOR](https://codeforces.com/contest/2162/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2162/C%20-%20Beautiful%20XOR/solution.cpp) |
 | 2224B | [Zhily and Mex and Max](https://codeforces.com/contest/2224/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2224/B%20-%20Zhily%20and%20Mex%20and%20Max/solution.cpp) |
+| 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
 
 ### data structures
 
@@ -109,6 +110,7 @@
 | 2151A | [Incremental Subarray](https://codeforces.com/contest/2151/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2151/A%20-%20Incremental%20Subarray/solution.cpp) |
 | 2224B | [Zhily and Mex and Max](https://codeforces.com/contest/2224/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2224/B%20-%20Zhily%20and%20Mex%20and%20Max/solution.cpp) |
 | 2240B | [AI Finds Nothing Here](https://codeforces.com/contest/2240/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2240/B%20-%20AI%20Finds%20Nothing%20Here/solution.cpp) |
+| 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
 
 ### sortings
 
@@ -117,6 +119,7 @@
 | 2143B | [Discounts](https://codeforces.com/contest/2143/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2143/B%20-%20Discounts/solution.cpp) |
 | 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.cpp) |
 | 2224B | [Zhily and Mex and Max](https://codeforces.com/contest/2224/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2224/B%20-%20Zhily%20and%20Mex%20and%20Max/solution.cpp) |
+| 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
 
 ### strings
 
