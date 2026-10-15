@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 12 |
+| 47 | 13 |
 
 ---
 
@@ -20,7 +20,8 @@
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (10)
 - [implementation](#implementation) (2)
-- [math](#math) (6)
+- [math](#math) (7)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (1)
 - [two pointers](#two-pointers) (2)
@@ -130,6 +131,13 @@
 | 2224B | [Zhily and Mex and Max](https://codeforces.com/contest/2224/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2224/B%20-%20Zhily%20and%20Mex%20and%20Max/solution.cpp) |
 | 2240B | [AI Finds Nothing Here](https://codeforces.com/contest/2240/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2240/B%20-%20AI%20Finds%20Nothing%20Here/solution.cpp) |
 | 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 
 ### sortings
 
