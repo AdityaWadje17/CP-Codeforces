@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 49 | 14 |
+| 50 | 14 |
 
 ---
 
@@ -15,12 +15,12 @@
 - [Uncategorized](#uncategorized) (30)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (11)
-- [implementation](#implementation) (2)
+- [greedy](#greedy) (12)
+- [implementation](#implementation) (3)
 - [math](#math) (8)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
@@ -85,6 +85,7 @@
 | 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.cpp) |
 | 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
 | 2162B | [Beautiful String](https://codeforces.com/contest/2162/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2162/B%20-%20Beautiful%20String/solution.cpp) |
+| 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.cpp) |
 
 ### combinatorics
 
@@ -121,6 +122,7 @@
 | 2162C | [Beautiful XOR](https://codeforces.com/contest/2162/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2162/C%20-%20Beautiful%20XOR/solution.cpp) |
 | 2192C | [All-in-one Gun](https://codeforces.com/contest/2192/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2192/C%20-%20All-in-one%20Gun/solution.cpp) |
 | 2224B | [Zhily and Mex and Max](https://codeforces.com/contest/2224/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2224/B%20-%20Zhily%20and%20Mex%20and%20Max/solution.cpp) |
+| 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.cpp) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
 
 ### implementation
@@ -129,6 +131,7 @@
 |---|---------|------------|----------|
 | 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.cpp) |
 | 2146B | [Merging the Sets](https://codeforces.com/contest/2146/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2146/B%20-%20Merging%20the%20Sets/solution.cpp) |
+| 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.cpp) |
 
 ### math
 
