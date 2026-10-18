@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 53 | 14 |
+| 54 | 15 |
 
 ---
 
@@ -19,8 +19,9 @@
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
+- [geometry](#geometry) (1)
 - [greedy](#greedy) (12)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (8)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
@@ -111,6 +112,12 @@
 |---|---------|------------|----------|
 | 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.cpp) |
 
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -135,6 +142,7 @@
 | 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.cpp) |
 | 2146B | [Merging the Sets](https://codeforces.com/contest/2146/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2146/B%20-%20Merging%20the%20Sets/solution.cpp) |
 | 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.cpp) |
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AdityaWadje17/CP-Codeforces/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 
 ### math
 
